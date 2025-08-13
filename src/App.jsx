@@ -7,7 +7,7 @@ function App() {
     <div className="resume-embed-full">
       <iframe
         title="Rohit Deka Resume"
-        src="https://drive.google.com/file/d/1BiZDhPtSvgM7OUxEwfgQ_nga1gJmA2O7/preview"
+        src="https://drive.google.com/file/d/12B9Erc_kRFlNDBQOgM4eW8cB6sGYqRGf/view?usp=sharing"
         allow="autoplay"
         frameBorder="0"
         className="resume-iframe"
